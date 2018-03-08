@@ -116,7 +116,7 @@ function init(canvasID){
       for (let i=0; i<subBranches; i++) {
         setTimeout(
           tree, 
-          1314, 
+          666, 
           ctx, 
           endX, 
           endY,
